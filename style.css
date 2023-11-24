@@ -1,0 +1,70 @@
+html {
+  background-image: url(https://www.designbolts.com/wp-content/uploads/2013/02/Cubes-Grey-Seamless-Pattern-For-Website-Background.jpg);
+  background-size: 600px;
+  color: black;
+}
+header {
+  background-color: #3173a8;
+  margin-top: -35px;
+  text-align: center;
+}
+main {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+h1 {
+  font-family: cursive;
+  font-size: 50px;
+}
+h2 {
+  font-family: cursive;
+}
+h3 {
+  text-align: center;
+  font-size: 30px;
+}
+p, ul, ol{
+  color: #685a48;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 17px;
+}
+img {
+  display: block;
+  margin: auto;
+  margin-top: 100px;
+  height: 600px;
+  width: 500px; 
+}
+main {
+  background-color: ;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: hotpink;
+}
+a:hover {
+  color: orange;
+}
+a:active {
+  color: yellow
+}
+footer {
+  background-color: #3173a8;
+  text-align: center;
+  padding: 30px;
+  margin-top: 100px;
+}
+footer p {
+  color: black
+}
+
+body header a {
+  font-size: 20px;
+}
+
+hr {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
